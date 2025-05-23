@@ -1,2 +1,2 @@
-# practicas-ingenieros-2025
+# proyecto-ingenieros-2025
 
